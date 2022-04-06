@@ -1,1 +1,5 @@
-# Projeto integrador 3º SEM de TADS
+#Sorveteria - PI3
+
+## Pertencentes a este grupo: 
+
+- Thamyra Fernanda de Godoi
